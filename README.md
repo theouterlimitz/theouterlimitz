@@ -23,7 +23,7 @@ Hi there! I'm a data analyst with a passion for uncovering insights from complex
 
 ---
 
-### 3. Meta-Analysis: Systemic Water Risk in the Global Solar Fleet
+### 3.  Meta-Analysis: Systemic Water Risk in the Global Solar Fleet
 *A combined analysis linking the findings from the previous two projects to investigate a novel question: Are solar power plants, a key green energy source, disproportionately located in high water-stress regions?*
 * **Skills Demonstrated:** Hypothesis Testing, Connecting Disparate Datasets, Advanced EDA, Critical Thinking.
 * **[View the Analysis Notebook](https://github.com/theouterlimitz/global-power-plant-database/blob/main/01_Global_Solar_Risk_Analysis.ipynb)** 
